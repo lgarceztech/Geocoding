@@ -1,0 +1,135 @@
+,name,address,city,phone,country,state,lat,lon
+0,Duck Donuts Alpharetta,3005 Old Alabama Road,"Alpharetta, GA 30022",(470) 385-6303,US,GA,34.020315,-84.272569
+1,Duck Donuts Marietta,1281 Johnson Ferry Road,"Marietta, GA 30068",(770) 693-1622,US,GA,33.980028,-84.424629
+2,Duck Donuts Columbia,702 Cross Hill Road  #100B,"Columbia, SC 29205",(803) 888-7424,US,SC,33.993152,-80.975127
+3,Duck Donuts Charleston,1812 Sam Rittenberg Boulevard  Suite 16B,"Charleston, SC 29407",(843) 724-9917,US,SC,32.802065,-80.020003
+4,Duck Donuts Savannah,7127 Hodgson Memorial Drive,"Savannah, GA 31406",(912) 355-0013,US,GA,32.006857,-81.110891
+5,Duck Donuts Hilton Head,890 William Hilton Parkway  Suite 70,"Hilton Head, SC 29928",(843) 842-3825,US,SC,32.169701,-80.739671
+6,Duck Donuts Myrtle Beach,117 Maryport Drive  Unit #1,"Myrtle Beach, SC 29575",(843) 839-3825,US,SC,33.632273,-78.961482
+7,Duck Donuts North Myrtle Beach,779 Main Street,"North Myrtle Beach, SC 29582",(843) 663-3825,US,SC,33.826429,-78.679422
+8,Duck Donuts Tallahassee,1894 Thomasville Road,"Tallahassee, FL 32303",(850) 918-8808,US,FL,30.464604,-84.270764
+9,Duck Donuts Jacksonville,13820 Old St Augustine Road  Unit 141,"Jacksonville, FL 32258",(904) 438-5665,US,FL,30.14046,-81.549565
+10,Duck Donuts Daytona Beach,1405 Cornerstone Boulevard  Suite C,"Daytona Beach, FL 32117",(386) 256-7714,US,FL,29.218655,-81.097293
+11,Duck Donuts Carrolwood,14926 North Dale Mabry Hwy,"Tampa, FL 33618",(813) 946-9674,US,FL,28.085505,-82.506193
+12,"Duck Donuts Brandon, FL",821 E Bloomingdale Ave,"Brandon, FL 33511",(813) 315-9661,US,FL,27.893165,-82.272604
+13,Duck Donuts Sarasota,1580 Lakefront Drive  Suite 102,"Sarasota, FL 34240",(941) 909-3592,US,FL,27.364023,-82.417191
+14,Duck Donuts Fort Myers,6900 Daniels Parkway  Unit A-14,"Fort Meyers, FL 33912",(239) 225-2185,US,FL,26.544982,-81.842181
+15,Duck Donuts Naples,4233 9th Street North,"Naples, FL 34103",(239) 238-1088,US,FL,26.197179,-81.800491
+16,Duck Donuts Boca Raton,5030 Champion Boulevard,"Boca Raton, FL 33496",(561) 334-2115,US,FL,26.410368,-80.123914
+17,Duck Donuts Miramar Park Place,11225 Miramar Parkway Unit#205,"Miramar, FL 33025",(754) 465-9258,US,FL,25.979692,-80.296268
+18,Duck Donuts Knoxville,6104 Kingston Pike,"Knoxville, TN 37919",(865) 236-1393,US,TN,35.932572,-84.002904
+19,Duck Donuts Asheville,182 Merrimon Avenue,"Asheville, NC 28801",(828) 575-2177,US,NC,35.605363,-82.55356
+20,Duck Donuts Chattanooga,2115 Gunbarrel Road  #A-11,"Chattanooga, TN 37421",(423) 521-3825,US,TN,35.034353,-85.153909
+21,Duck Donuts Bristol,424 Pinnacle PKWY Suite 258,"Bristol, TN 37620",(423) 805-9947,US,TN,36.592588,-82.259938
+22,"Duck Donuts Greenville, SC",3935 Pelham Road  Suite J,"Greenville, SC 29605",(828) 548-1442,US,SC,34.860393,-82.263122
+23,Duck Donuts Brentwood,101 Creekside Crossing  Suite 1000,"Brentwood, TN 37027",(615) 964-7873,US,TN,36.036967,-86.799248
+24,Duck Donuts Huntersville,9931-C Rose Commons Drive,"Huntersville, NC 28078",(704) 727-5150,US,NC,35.409124,-80.861505
+25,"Duck Donuts Fort Mill, SC",810 Brayden Parkway,"Fort Mill, SC 29708",(803) 228-4018,US,SC,35.040726,-80.981276
+26,Duck Donuts Louisville-Middletown,12939 Shelbyville Road,"Louisville, KY 40243",(502) 237-7560,US,KY,38.244461,-85.514016
+27,Duck Donuts Charlotte,1710 Kenilworth Avenue  #220,"Charlotte, NC 28203",(704) 910-5355,US,NC,35.202656,-80.844343
+28,Duck Donuts Louisville,4600 Shelbyville Road  Suite 634,"Jefferson County, KY 40207",(502) 614-6657,US,KY,38.250291,-85.62893
+29,Duck Donuts South Charlotte,"9825 Sandy Rock Place, Suite 5B","Charlotte, NC 28277",(704) 246-7276,US,NC,35.05305,-80.773563
+30,Duck Donuts of Mt. Airy,1025 Rockford St.  Suite 400,"Mt Airy, NC 27030",(336) 648-8898,US,NC,36.485701,-80.611278
+31,Duck Donuts Winston Salem,3481 Burke Mill Road,"Winston Salem, NC 27103",(336) 727-3419,US,NC,36.059691,-80.311319
+32,Duck Donuts High Point,2766 Highway 68 N  #101,"Highpoint, NC 27265",(336) 697-6179,US,NC,36.042426,-79.961583
+33,Duck Donuts Greensboro,409 Pisgah Church Road,"Greensboro, NC 27455",(336) 291-8200,US,NC,36.130399,-79.796343
+34,Duck Donuts Mason,5635 Deerfield Boulevard,"Mason, OH 45040",(513) 492-7707,US,OH,39.307165,-84.316798
+35,Duck Donuts Roanoke,3564 Electric Road  Unit 18,"Roanoke, VA 24018",(540) 206-2490,US,VA,37.226272,-79.997253
+36,Duck Donuts Dayton,1200 Brown Street,"Dayton, OH 45409",(937) 951-2618,US,OH,39.741667,-84.181974
+37,Duck Donuts Durham,5320 McFarland Road  Suite 140,"Durham, NC 27707",(919) 973-1305,US,NC,35.951615,-78.992935
+38,Duck Donuts Lynchburg,3405 Candlers Mountain Road,"Lynchburg, VA 24502",(434) 810-6730,US,VA,37.365122,-79.178425
+39,Duck Donuts Pickerington,10710 Blacklick-Eastern Rd  Suite 300,"Pickerington, OH 43147",(614) 604-9065,US,OH,39.929909,-82.78704
+40,Duck Donuts Fayetteville,2132 Skibo Road,"Fayetteville, NC 28314",(910) 487-0386,US,NC,35.051244,-78.976108
+41,Duck Donuts Cary,100 Wrenn Drive  Suite 101,"Cary, NC 27511",(919) 468-8722,US,NC,35.76525,-78.783994
+42,Duck Donuts North Fayetteville,5155 Ramsey Street,"Fayetteville, NC 28311",(910) 482-0096,US,NC,35.130534,-78.879063
+43,Duck Donuts Dublin,7717 Sawmill Road,"Dublin, OH 43016",(614) 726-9399,US,OH,40.123777,-83.090895
+44,Duck Donuts Raleigh,8323 Creedmoor Road,"Raleigh, NC 27613",(919) 847-3800,US,NC,35.900604,-78.682598
+45,Duck Donuts Westerville,825 Polaris Parkway,"Westerville, OH 43082",(614) 896-6450,US,OH,40.143983,-82.957801
+46,Duck Donuts Charlottesville,2075 Bond Street,"Charlottesville, VA 22901",(434) 823-1960,US,VA,38.065398,-78.493048
+47,"Duck Donuts Greenville, NC",420 Arlington Boulevard,"Greenville, NC 27858",(252) 689-6305,US,NC,35.584268,-77.369911
+48,Duck Donuts Pittsburgh,100 Siena Drive,"Pittsburgh, PA 15241",(412) 833-3825,US,PA,40.347211,-80.057404
+49,Duck Donuts Summit Mall,3265 W. Market Street  190B Summit Mall,"Fairlawn, OH 44333",(330) 278-0333,US,OH,41.134139,-81.617715
+50,Duck Donuts Winchester,3103 Valley Ave Unit 104,"Winchester, VA 22601",(540) 773-5262,US,VA,39.142848,-78.190709
+51,Duck Donuts Bristow,10286 Bristow Center Drive,"Bristow, VA 20136",(703) 789-8917,US,VA,38.73389,-77.550868
+52,Duck Donuts Orange Village,200 Park Avenue  Suite 140,"Orange Village, OH 44122",(216) 331-0184,US,OH,41.453817,-81.486049
+53,Duck Donuts South Riding,43090 Peacock Market Plaza  Suite 150,"South Riding, VA 20152",(703) 957-3175,US,VA,38.915992,-77.512695
+54,Duck Donuts Williamsburg,4655 Monticello Avenue  Unit 103,"Williamsburg, VA 23188",(757) 258-3825,US,VA,37.269845,-76.756342
+55,Duck Donuts Woodbridge,15101 Potomac Town Place  Suite 140,"Woodbridge, VA 22191",(804) 416-6787,US,VA,38.628264,-77.287162
+56,Duck Donuts St.Louis,1651 Clarkson Road,"Chesterfield, MO 63017",(636) 778-7770,US,MO,38.645534,-90.56617
+57,Duck Donuts Fairfax,10694 Fairfax Boulevard,"Fairfax, VA 22030",(703) 383-3039,US,VA,38.856527,-77.31407
+58,Duck Donuts Herndon,300 A Elden Street,"Herndon, VA 20170",(703) 707-8496,US,VA,38.96759,-77.372213
+59,Duck Donuts Springfield,"8404 Old Keene Mill Rd, West Springfield","Springfield, VA 22152",(703) 712-7453,US,VA,38.78002,-77.235169
+60,Duck Donuts Suffolk,1013 University Boulevard  Unit #260,"Suffolk, VA 23435",(757) 483-8917,US,VA,36.873417,-76.422938
+61,Duck Donuts Alexandria,3610 F King Street,"Alexandria, VA 22302",(571) 357-1742,US,VA,38.828412,-77.09071
+62,Duck Donuts Arlington,2511 N Harrison Street,"Arlington, VA 22207",(703) 300-9174,US,VA,38.897739,-77.139555
+63,Duck Donuts Rockville,1327 Rockville Pike,"Rockville, MD 20852",(301) 296-1988,US,MD,39.068069,-77.130208
+64,Duck Donuts Chesapeake,1329 N Battlefield Boulevard  Suite 140,"Chesapeake, VA 23320",(757) 410-9898,US,VA,36.765858,-76.25111
+65,Duck Donuts Norfolk,1541 Premium Outlets Boulevard  Suite 160,"Norfolk, VA 23502",(757) 461-3825,US,VA,36.878766,-76.194178
+66,Duck Donuts Landstown,1908 Landstown Centre Way,"Virginia Beach, VA 23456",(757) 301-2969,US,VA,36.772204,-76.087148
+67,Duck Donuts Kings Grant,3030 Virginia Beach Boulevard,"Virginia Beach, VA 23452",(757) 351-6530,US,VA,36.843755,-76.077935
+68,Duck Donuts Virginia Beach,233 Laskin Road,"Virginia Beach, VA 23451",(757) 962-1990,US,VA,36.858853,-75.978838
+69,Duck Donuts Corolla,603D Currituck Clubhouse Drive,"Corolla, NC 27927",(252) 453-3210,US,NC,36.30369,-75.806359
+70,Duck Donuts Duck,1190 Duck Road,"Duck, NC 27949",(252) 480-3304,US,NC,36.163312,-75.753396
+71,Duck Donuts Troy,2920 W. Maple Road,"Troy, MI 48084",(248) 781-3825,US,MI,42.54789,-83.183706
+72,Duck Donuts Naperville,3124 Illinois Rte 59,"Naperville, IL 60564",(630) 857-3168,US,IL,41.707295,-88.2040683
+73,Duck Donuts Kitty Hawk,5230 N Virginia Dare Trail,"Kitty Hawk, NC 27949",(252) 261-3312,US,NC,36.099729,-75.712406
+74,Duck Donuts Kill Devil Hills,1716 N Croatan Hwy,"Kill Devil Hills, NC 27948",(252) 480-3320,US,NC,36.031134,-75.673083
+75,Duck Donuts Nags Head,5000 S Croatan Highway  Unit M 25,"Nags Head, NC 27959",(252) 255-5730,US,NC,35.93939,-75.617062
+76,Duck Donuts State College,125 S Fraser Street,"State College, PA 16801",(814) 954-4829,US,PA,40.793324,-77.861816
+77,Duck Donuts Pegula Ice Arena,250 University Dr.,"University Park, PA 16802",(814) 308-8893,US,PA,40.8065894,-77.8570532
+78,"Duck Donuts Geneva, IL",1302 Commons Drive,"Geneva, IL 60134",(630) 948-8773,US,IL,41.8933112,-88.3415915
+79,Duck Donuts Avon,41934 NC Highway 12,"Avon, NC 27915",(252) 995-9950,US,NC,35.332862,-75.507831
+80,Duck Donuts Mechanicsburg,6230 Carlisle Pike,"Mechanicsburg, PA 17050",(717) 691-1005,US,PA,40.244617,-76.997184
+81,Duck Donuts Libertyville,"111 School St, Libertyville","Libertyville, IL 60048",(224) 433-6505,US,IL,42.288651,-87.953988
+82,Duck Donuts Hershey,261 West Chocolate Avenue,"Hershey, PA 17033",(717) 298-6096,US,PA,40.283588,-76.656398
+83,Duck Donuts Lancaster,2097 Fruitville Pike,"Lancaster, PA 17601",(717) 455-3308,US,PA,40.07737,-76.326053
+84,Duck Donuts Wyomissing,86 Commerce Dr.,"Wyomissing, PA 19610",(610) 546-2298,US,PA,40.3461167,-75.9897625
+85,Duck Donuts West Chester,1353 Dilworthtown Crossing,"West Chester, PA 19382",(484) 301-3452,US,PA,39.903487,-75.563656
+86,Duck Donuts Collegeville,220 Plaza Drive,"Collegeville, PA 19426",(484) 854-6959,US,PA,40.165302,-75.481472
+87,Duck Donuts King Of Prussia,201 Main Street  Suite 160,"King Of Prussia, PA 19406",(484) 231-8570,US,PA,40.083406,-75.405102
+88,Duck Donuts Avalon,3246 Dune Drive,"Avalon, NJ 08202",(609) 830-3202,US,NJ,39.09439,-74.724554
+89,Duck Donuts Sea Isle,33 42nd Street  Unit #1,"Sea Isle City, NJ 08243",(609) 478-3206,US,NJ,39.154453,-74.690877
+90,Duck Donuts Allentown,4608 D Broadway Road,"Allentown, PA 18104",(610) 628-3636,US,PA,40.587118,-75.558355
+91,"Duck Donuts Burlington, ON",5010 Pinedale Ave.  Unit 1001 A,"Burlington, ON L7L 0G3",(905) 632-8448,US,ON L,43.369482,-79.755426
+92,Duck Donuts Marlton,101 South Route 73,"Marlton, NJ 08053",(856) 267-5330,US,NJ,39.890321,-74.926962
+93,Duck Donuts Warrington,1540 north Main Street,"Warrington, PA 18976",(267) 435-2538,US,PA,40.231692,-75.136616
+94,Duck Donuts Wilkes-Barre,"251 Mundy St, Suite 103","Wilkes-Barre, PA 18702",(570) 608-8599,US,PA,41.241774,-75.844862
+95,"Duck Donuts Rogers, AR",2301 W Pleasant Grove Rd,"Rogers, AR 72758",(479) 372-6003,US,AR,36.283665,-94.148408
+96,Duck Donuts Levittown,1411 Lincoln Highway,"Levittown, PA 19056",(267) 580-5224,US,PA,40.167835,-74.895759
+97,Duck Donuts Moosic,1121 Shoppes Blvd,"Moosic, PA 18507",(570) 285-4855,US,PA,41.363911,-75.679869
+98,Duck Donuts Bartonsville,3560 Route 611  Suite 16B,"Bartonsville, PA 18321",(272) 271-2922,US,PA,41.001157,-75.274306
+99,Duck Donuts East Brunswick,300 NJ-18 Suite 4,"East Brunswick, NJ 08816",(732) 479-8381,US,NJ,40.456069,-74.394588
+100,Duck Donuts Green Brook,215 Route 22 E  #7,"Green Brook, NJ 08812",(732) 529-5263,US,NJ,40.59862,-74.484019
+101,Duck Donuts Clark,77 Central Avenue,"Clark, NJ 07066",(732) 540-8711,US,NJ,40.626316,-74.306815
+102,Duck Donuts Middletown,1275 Route 35,"Middletown, NJ 07748",(732) 671-3825,US,NJ,40.400266,-74.117151
+103,Duck Donuts Leawood,12130 State Line Road,"Leawood, KS 66209",(913) 549-4239,US,KS,38.908294,-94.609216
+104,Duck Donuts Paramus,556 Route 17 North,"Paramus, NJ 07652",(201) 483-3973,US,NJ,40.958568,-74.073784
+105,Duck Donuts Fresh Meadows,61-32 190th Street,"Queens, NY 11365",(718) 971-9886,US,NY,40.740324,-73.784917
+106,Duck Donuts Garden City Park,2425 Jericho Turnpike,"Garden City Park, NY 11040",(516) 400-6919,US,NY,40.743444,-73.660115
+107,Duck Donuts Mamaroneck,805 Mamaroneck Avenue,"Mamaroneck, NY 10543",(914) 825-9722,US,NY,40.956633,-73.736796
+108,"Duck Donuts White Plains, NY",393 Tarrytown Road,"White Plains, NY 10607",(914) 219-4811,US,NY,41.041773,-73.797819
+109,Duck Donuts East Meadow,2334 Hempstead Turnpike,"East Meadow, NY 11554",(516) 774-5517,US,NY,40.724814,-73.549558
+110,Duck Donuts Hauppauge,586 Veterans Memorial Highway  Unit 1B,"Hauppauge, NY 11788",(631) 656-8400,US,NY,40.822625,-73.209531
+111,Duck Donuts Selden,49 College Plaza,"Selden, NY 11784",(631) 846-7777,US,NY,40.86616,-73.047823
+112,Duck Donuts Latham (Albany),579 Troy Schenectady Road,"Latham, NY 12110",(518) 608-0040,US,NY,42.752997,-73.764686
+113,Duck Donuts Woodbury,7455 Currell Boulevard,"Woodbury, MN 55125",(651) 846-9956,US,MN,44.924987,-92.955132
+114,Duck Donuts Mall of America,382 West Market,"Bloomington, MN 55425",(952) 522-9914,US,MN,44.854403,-93.243125
+115,"Duck Donuts Walpole, MA",102B Boston Providence Highway,"Walpole, MA 02032",(508) 505-4917,US,MA,42.157302,-71.201224
+116,Duck Donuts Pflugerville,18616 Limestone Commercial Drive  Suite 250,"Pfluegerville, TX 78660",(512) 520-8120,US,TX,30.465991,-97.597609
+117,Duck Donuts San Antonio,11703 Huebner Road  Suite 113,"San Antonio, TX 78230",(210) 476-5500,US,TX,29.55167,-98.572887
+118,Duck Donuts San Antonio - Culebra Commons,7010 W Loop 1604 N,"San Antonio, TX 78254",(210) 236-5886,US,TX,29.503094,-98.699305
+119,Duck Donuts Johnstown,4842 Larimer Parkway,"Johnstown, CO 80534",(970) 663-4652,US,CO,40.406688,-104.975732
+120,Duck Donuts South Jordan,10352 River Heights Drive  #103,"South Jordan, UT 84095",(801) 987-8983,US,UT,40.563718,-111.972319
+121,Duck Donuts Ammon,2675 Sunnyside Road,"Ammon, ID 83406",(208) 932-7036,US,ID,43.468563,-111.980764
+122,Duck Donuts Queen Creek,22480 E. Ocotillo Road C101,"Queen Creek, AZ 85142",(602) 497-3647,US,AZ,33.248582,-111.598077
+123,Duck Donuts Chandler,4040 S Arizona Avenue Suite 8,"Chandler, AZ 85248",(480) 350-7763,US,AZ,33.246524,-111.842744
+124,"Duck Donuts Twin Falls, ID","148 Cheney DR W, Suite 200","Twin Falls, ID 83301",(208) 825-1793,US,ID,42.588805,-114.481177
+125,Duck Donuts Las Vegas,3615 Las Vegas Blvd S.,"Las Vegas, NV 89109",(714) 410-6611,US,NV,36.114338,-115.172065
+126,Duck Donuts Chandler,4040 S Arizona Avenue  Suite 8,"Chandler, AZ 85248",(480) 350-7763,US,AZ,33.246524,-111.842744
+127,Duck Donuts Rancho Cucamonga,7834 Kew Ave.,"Rancho Cucamonga, CA 91739",(714) 794-7541,US,CA,34.111123,-117.531408
+128,Duck Donuts Irvine,2222 Michelson Drive,"Irvine, CA 92612",(949) 734-6900,US,CA,33.676164,-117.855446
+129,Duck Donuts Garden Grove,12900 Euclid Street  Suite 150,"Garden Grove, CA 92840",(714) 867-6761,US,CA,33.775326,-117.937324
+130,Duck Donuts Huntington Beach,18591 Main Street,"Huntington Beach, CA 92648",(714) 375-5430,US,CA,33.693511,-117.992015
+131,Duck Donuts Santa Monica,Santa Monica 3rd St Promenade,"Santa Monica, CA 90401",(310) 668-1560,US,CA,34.01765966,-118.49847415
+132,Duck Donuts Meridian,2126 N. Eagle Road  Suite 140,"Meridian, ID 83646",(208) 926-6670,US,ID,43.624313,-116.353894
+133,,,,,US,,53.88205513,-2.05726172
