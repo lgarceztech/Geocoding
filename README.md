@@ -11,7 +11,7 @@ This repository showcases an example of geocoding - the process of converting ad
 
 ## Technologies Used
 
-This project is implemented using Python, and the development and testing were conducted in Jupyter Notebooks through Anaconda.
+This project is implemented using Python, and the development and testing were conducted in Jupyter Notebooks through Anaconda. The data was extracted from Duck Donuts' website.
 
 ## Further Information
 
